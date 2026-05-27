@@ -23,7 +23,7 @@ const slides = [
 
 const Hero = () => {
   return (
-    <section>
+    <section >
       <Swiper
         modules={[Pagination, Autoplay]}
         pagination={{ clickable: true }}
